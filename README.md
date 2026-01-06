@@ -5,12 +5,12 @@
 
 ## 👨‍💻 About Me  
 
-- 🚀 Full-Stack Developer with **3+ years of experience** in designing and building modern web and mobile applications  
-- 💡 Skilled in **MERN Stack, Java Spring Boot, React Native, and Cloud Deployment**  
-- 🌱 Expanding expertise in **DevOps, CI/CD pipelines, and containerized applications**  
-- 🔭 Current project: **InterviewPro** – Real-time 1:1 mock interview platform (Web + Mobile)  
+- 🚀 Full-Stack Developer focused on building scalable and user-friendly applications  
+- 💡 Skilled in **MERN Stack, Java Spring Boot, React Native**, and **Cloud Deployment**  
+- 🌱 Actively learning **DevOps, CI/CD pipelines**, and **containerized applications (Docker)**  
+- 🔭 Currently working on **InterviewPro** — a **real-time 1:1 mock interview platform** (Web + Mobile)  
 - 📫 Contact: **narendrapala2210@gmail.com**  
-- 👨‍💻 Portfolio: [**narendra-portfolio-dev.netlify.app**](https://narendra-portfolio-dev.netlify.app/)  
+- 🌐 Portfolio: [narendra-portfolio-dev.netlify.app](https://narendra-portfolio-dev.netlify.app)
 
 ---
 
