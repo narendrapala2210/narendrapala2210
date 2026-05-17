@@ -10,7 +10,6 @@
 - 🌱 Actively learning **DevOps, CI/CD pipelines**, and **containerized applications (Docker)**  
 - 🔭 Currently working on **InterviewPro** — a **real-time 1:1 mock interview platform** (Web + Mobile)  
 - 📫 Contact: **narendrapala2210@gmail.com**  
-- 🌐 Portfolio: [narendra-portfolio-dev.netlify.app](https://narendra-portfolio-dev.netlify.app)
 
 ---
 
